@@ -24,6 +24,7 @@ enum class WINDOWS_INDEX
 	WX_18363, // Win10 1909
 	WX_19041, // Win10 2004
 	WX_19042, // Win10 20H2
+	WX_19045, // Win10 22H2
 	Unsupported
 };
 
